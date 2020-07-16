@@ -62,8 +62,8 @@
     <description>This is the custom module (Sample Module) for running on a Digital Experience Manager server.</description>
 
     <scm>
-        <connection>scm:https://github.com/dcfrancisco/jahia_sample_module.git</connection>
-        <developerConnection>scm:https://github.com/dcfrancisco/jahia_sample_module.git</developerConnection>
+        <connection>scm:git:https://github.com/dcfrancisco/jahia_sample_module.git</connection>
+        <developerConnection>scm:git:https://github.com/dcfrancisco/jahia_sample_module.git</developerConnection>
     </scm>
 
     <repositories>
